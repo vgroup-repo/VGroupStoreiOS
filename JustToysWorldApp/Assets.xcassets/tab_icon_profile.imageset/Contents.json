@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tab-icon-user-25x25.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tab-icon-user-50x50.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tab-icon-user-75x75.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
